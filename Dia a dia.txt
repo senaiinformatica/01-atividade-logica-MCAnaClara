@@ -1,0 +1,202 @@
+﻿dia a dia
+1. abro o olho
+2. desligo o primeiro alarme
+3. fecho o olho
+4. durmo durante 20 minutos
+5. abro o olho
+6. desligo o segundo alarme
+7. pego meu celular
+8. olho as mensagens
+9. sento na cama
+10. respiro fundo
+11. levanto da cama
+12. ando ate a porta
+13. abro a porta
+14. ando ate o banheiro
+15. fecho a porta do banheiro
+16. ligo a luz do banheiro
+17. me olho no espelho
+18. abro a torneira
+19. coloco minha mão embaixo do recipiente do sabonete
+20. aperto o coiso de sabonete 
+21. espalho o sabonete nas mãos
+22. enxaguo minhas mãos
+23. fecho a torneira 
+24. pego outro sabonete
+25. aperto o recipiente 
+26. despejo o sabão na minha mão
+27. abro a torneira
+28. molho um pouco a mão
+29. fecho a torneira
+30. esfrego a mão com sabão no rosto
+31. abro a torneira
+32. me abaixo na altura da torneira
+33. faço formato de concha com as mãos
+34. encho a mão de água
+35. jogo agua no meu rosto ate tirar completamente o sabão
+36. fecho a torneira
+37. seco a mão e o rosto na toalha
+38. abro a porta do banheiro
+39. apago a luz
+40. ando até meu quarto
+41. ligo a luz do quarto
+42. abro o ziper da minha bolsa de escola
+43. pego minha necessaire
+44. desligo a luz do quarto
+45. ando ate o banheiro
+46. ligo a luz do banheiro
+47. fecho a porta
+48. abro o ziper da necessaire
+49. tiro as maquiagens de dentro e coloco sob a pia
+50. abro o armário
+51. pego oleo de rosto
+52. abro o oleo
+53. passo no rosto
+54. fecho óleo
+55. coloco no armário
+56. fecho o armário
+57. espalho óleo no rosto
+58. pego o corretivo
+59. abro o corretivo
+60. aplico um pouco na região a baixo dos olhos
+61. fecho o corretivo
+62. coloco sob a pia
+63. espalho o corretivo
+64. pego o contorno
+65. abro o contorno
+66. aplico perto da maça do rosto
+67. fecho o contorno
+68. coloco o contorno sob a pia
+69. pego um pincel de contorno
+70. espalho o contorno 
+71. coloco o pincel sob a pia 
+72. abro o armário
+73. pego o pó banana
+74. pego a esponja de po
+75. abro o po banana
+76. passo a esponja no po
+77. passo a esponja com po no rosto
+78. fecho o po
+79. coloco o po no armário
+80. fecho o armário
+81. pego o blush
+82. pego o pincel de blush
+83. abro o blush
+84. passo o pincel de blush no blush
+85. passo o pincel com blush na bochecha
+86. fecho o blush
+87. guardo todas as maquiagens na necessaire
+88. me olho no espelho
+89. desligo a luz do banheiro
+90. pego a necessaire
+91. abro a porta
+92 ando ate o quarto
+93. acendo a luz
+94. entro no quarto
+95. encosto a porta
+96. guardo a necessaire na bolsa da escola
+97. abro o guarda-roupa
+98. pego a roupa que separei ontem
+99. tiro a roupa que estou usando
+100. coloco a roupa que separei
+101. pego o cobertor
+102. dobro o cobertor
+103. pego o crachá do senai
+104. coloco o crachá no bolso da calça
+105. pego cartão de debito e bilhete único
+106. coloco os cartões no bolso da calça
+107. pego meu fone 
+108. coloco o fone no bolso da calca
+109. pego a bolsa da escola
+110. vou ate a porta
+111. apago a luz
+112. abro a porta
+113. vou ate a cozinha
+114. abro a geladeira
+115. pego minha marmita
+116. fecho a geladeira
+117. coloco minha marmita na mesa
+118. pego meu tênis
+119. coloco meu tênis perto da porta
+120. ando ate o banheiro
+121. acendo a luz
+121. pego minha escova de dentes
+122. pego a pasta de dentes
+123. abro a pasta de dente
+124. aperto a pasta
+125. coloco o creme dental na minha escova
+126. fecho a pasta de dente
+127. guardo a pasta de dente
+128. abro a torneira
+129. molho a escova de dente 
+130. fecho a torneira
+131. abro a boca
+132. escovo meus dentes
+133. abro a torneira
+134. limpo minha escova
+135. guardo minha escova
+136. faço formato de concha com as minhas mãos
+137. encho minhas mãos de agua
+138. encho minha boca de agua com a agua da minha mão ate tirar toda a pasta
+139. cuspo a agua
+140. seco minha boca e minhas mãos
+141. solto o elástico do meu cabelo
+142. enquanto ando e faço outras coisas desfaço as tranças
+143. apago a luz do banheiro
+144. vou ate meu quarto
+145. pego a meia separada
+146. coloco a meia no pé
+147. vou para a sala
+148. puxo a cadeira 
+149. sento na cadeira
+150. abro o zíper da mochila da escola
+151. coloco a marmita dentro da mochila
+152. coloco o tênis no pé
+153. giro a chave na fechadura
+154. abro a porta
+155. saio de casa
+156. tiro a chave da porta
+157. coloco a chave do lado de fora da fechadura
+158. fecho a porta
+159. giro a chave na fechadura
+160. pego a chave
+161. aperto o botão do elevador
+162. espero o elevador chegar
+163. assim que as portas abrirem, entro no elevador
+164. aperto no botão "0"
+165. espero as portas abrirem de novo
+166. saio do elevador
+167. abro a porta do hall
+168. desço a escada
+169. abro a porta da portaria
+170. fecho a porta da portaria
+171. abro a segunda porta da portaria
+172. saio 
+173. fecho a porta da portaria
+174.1. viro para a direita
+174.2. ando ate a estação de metro
+174.3. atravesso uma rua
+174.4. continuo andando
+174.5. atravesso outra rua
+174.6. viro a direita
+174.7. ando
+174.8. viro a esquerda
+174.9. ando
+174.10. viro a esquerda
+174.11. subo a rampa
+175. pego meu bilhete único no bolso
+176. viro a esquerda
+177. coloco o bilhete no sensor
+178. passo a catraca
+179. guardo o bilhete no bolso
+180. desço as escadas
+181. espero o metro
+182. entro no metro quando as portas abrirem
+183. espero ate chegar no Bras
+184. desço do metro
+185. vou ate a cptm
+185. espero o trem chegar
+186. quando chega o trem, eu entro
+187. espero ate chegar em São Caetano
+188. desço do trem
+189. vou ate o senai
